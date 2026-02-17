@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Student Performance Analysis
 
 ## Project Overview
@@ -217,3 +218,7 @@ StudentPerformanceAnalysis/
 ## Author Notes
 
 This analysis demonstrates the power of exploratory data analysis (EDA) in uncovering meaningful patterns in educational data. The combination of Pandas for data wrangling and Matplotlib/Seaborn for visualization provides comprehensive insights into student performance trends.
+=======
+# StudentPerformanceAnalysis
+Analyze student exam scores using Python, Pandas, NumPy, and visualizations
+>>>>>>> 15f5be7a37f230a438abd6618779b2e9416eb855
